@@ -1,0 +1,32 @@
+table, th, td{
+  border: 1px solid white;
+  background-color:lightblue
+}
+#firstTable{
+  border: 1px solid pink;
+}
+#row1Table{
+  background-color: pink;
+}
+body{
+  background-image:
+    url(http://www.legat.com/wp-content/uploads/2022/09/JohnHancock-CollegePreparatory-HighSchool.jpg);
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+  background-size:cover;
+}
+#firstTable5{
+  margin:auto;
+}
+h1{
+  text-align:center;
+}
+h2{
+  text-align:center;
+}
+form{
+  background-color:lightblue;
+    width:250px;
+  margin-left:auto;
+  margin-right:auto;
+}
